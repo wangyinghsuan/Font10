@@ -1,3 +1,9 @@
+/**
+     A 'W' drawn by line matrixes. 
+     wang ying hsuan 27/08/2012
+     ying_hsuan52@hotmail.com
+  */
+
 size(400,400);
 background(255);
 strokeWeight(1);
